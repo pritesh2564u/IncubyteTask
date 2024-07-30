@@ -24,7 +24,10 @@ A string calculator implemented in JavaScript, following Test-Driven Development
    ```bash
    npm install
 
-3. **Open Terminal**:
+## Running Tests
+
+   Navigate to the project directory and run the tests using npm.
+
 
    ```bash
    npm test
